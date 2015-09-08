@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4BAE68AF-3225-429D-A4A5-8B33B5845DC0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Currency Converter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D33C4F9445EE1DD6F0819BBE05AA8611AE960029</key>
+		<string>https://github.com/tomoiti/Currency-Converter-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Currency Converter.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D33C4F9445EE1DD6F0819BBE05AA8611AE960029</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tomoiti/Currency-Converter-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D33C4F9445EE1DD6F0819BBE05AA8611AE960029</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D33C4F9445EE1DD6F0819BBE05AA8611AE960029</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Currency-Converter-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
